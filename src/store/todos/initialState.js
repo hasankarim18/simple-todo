@@ -1,0 +1,20 @@
+export const initialState = [
+    { id: 1, text: 'learn react js', completed: true },
+    { id: 2, text: 'learn node js', completed: false, color: 'red' },
+    { id: 3, text: 'Learn tailwind css', completed: true, color: 'green' },
+    { id: 4, text: 'Learn Mododb css', completed: false, color: 'red' },
+    // { id: 5, text: 'Learn Express', completed: false, color: 'green' },
+    // { id: 6, text: 'Learn Python', completed: false, color: 'yellow' },
+    // { id: 7, text: 'Learn Php', completed: false },
+    // { id: 8, text: 'Learn Wordpress', completed: true },
+    // { id: 9, text: 'Learn css', completed: true },
+    // { id: 10, text: 'Learn html', completed: false },
+    // { id: 11, text: 'Learn html', completed: false },
+    // { id: 13, text: 'Learn html', completed: false },
+    // { id: 14, text: 'Learn html', completed: false },
+    // { id: 15, text: 'Learn html', completed: false },
+    // { id: 16, text: 'Learn html', completed: false },
+    // { id: 17, text: 'Learn html', completed: false },
+    // { id: 18, text: 'Learn html', completed: false },
+
+]

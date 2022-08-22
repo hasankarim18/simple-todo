@@ -1,0 +1,19 @@
+
+
+** compoenent require ment
+
+1. Navigation component
+
+2. Header part of the app 
+    2.1 Search form 
+    2.2 complete all task
+    3.3 clear completed
+
+3. Todo list 
+
+4. footer includes filter
+
+** state
+*** List of features 
+        1. Todo features
+        2. Filter Features
